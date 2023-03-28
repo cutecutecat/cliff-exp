@@ -1,0 +1,8 @@
+cliff @ git+https://github.com/cutecutecat/cliff@64d16dcbcc4930500210c7d00d05844e33f4844a
+editdistance==0.6.2
+matplotlib==3.7.1
+numpy==1.24.2
+pandas==1.5.3
+scikit-learn==1.2.2
+seaborn==0.12.2
+tqdm==4.65.0
